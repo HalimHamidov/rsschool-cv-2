@@ -1,1 +1,1 @@
-[Link to my CV](https://mumplini.github.io/rsschool-cv/cv)
+**Natalia Ivanova** | [Link to my CV](https://mumplini.github.io/rsschool-cv/cv)
