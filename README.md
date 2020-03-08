@@ -1,1 +1,1 @@
-https://mumplini.github.io/rsschool-cv/cv
+[Link to my CV](https://mumplini.github.io/rsschool-cv/cv)
