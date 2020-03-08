@@ -19,11 +19,11 @@ Work productively with other people. Perform well in teams or groups, having an 
 * **Databases** :  MS SQL, MySQL, Oracle  
 
 ## Tools & methodologies
-* **Project Management**: Microsoft Project, JIRA, Asana, Zoho, Confluence, GreenHopper, Visio.
-* **CCM**: Jira, Confluence,  ITASM.
-* **Version Control/Build tools**: CVS, Subversion, Git, Ant, Yum.
+* **Project Management**: Microsoft Project, JIRA, Asana, Zoho, Confluence, GreenHopper, Visio
+* **CCM**: Jira, Confluence,  ITASM
+* **Version Control/Build tools**: CVS, Subversion, Git, Ant, Yum
 * **Testing tools**: RationalRobot, LoadRunner, Zephyr, Postman
-* **Security scan tools**: Qualys, NetSparker, URLQuery and GT-Metrix.
+* **Security scan tools**: Qualys, NetSparker, URLQuery and GT-Metrix
 * **IT development methodology**: CMMI, RUP, ITIL, ITSM, PMA, XP, AGILE, LEAN, SCRUM
 * **Operational System**: NT, Unix, Linux, Solaris
 
